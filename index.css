@@ -1,0 +1,41 @@
+h1 {text-align: center;
+background-color: black;
+color:white;
+
+height: 30%;}
+
+h3 {text-align: center;
+    background-color: black;
+    color:white;
+    
+    height: 30%;}
+
+h5 {text-align: center;
+    background-color: black;
+    color:white;
+    
+    height: 30%;}
+
+    div {background-color: black;
+    text-align: center;
+margin: 0 5% 0 5%;}
+
+.first {float: left;
+margin: 0 0 0 20%}
+
+.second {float: right;
+margin: 0 20% 0 0}
+
+.div2 {bottom: 20%;
+margin-left: 15%;
+position: fixed}
+
+.P1 {color: azure;
+text-align: center}
+
+.div3 { position: fixed;
+bottom: 20%;
+margin-left: 55%}
+
+.P2 {color: azure;
+text-align: center}
